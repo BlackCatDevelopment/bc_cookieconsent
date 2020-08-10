@@ -1,0 +1,33 @@
+<?php
+
+$LANG = array(
+    'Allow' => 'Erlauben',
+    'Allow cookies' => 'Cookies erlauben',
+    'Background color' => 'Hintergrundfarbe',
+    'Button color' => 'Schaltfläche Farbe',
+    'Common' => 'Allgemein',
+    'Deny' => 'Ablehnen',
+    'Dismiss' => 'Schließen',
+    'Edit contents' => 'Texte bearbeiten',
+    'Got it!' => 'Verstanden!',
+    'Learn more' => 'Mehr erfahren',
+    'Message' => 'Mitteilung',
+    'Notify only.' => 'Nur benachrichtigen.',
+    'Please note: The Cookie Consent popup on this page is meant as a preview. It will appear at the position you have selected.' => 'Bitte beachten: Das Cookie Consent Popup auf dieser Seite ist als Vorschau gedacht. Es erscheint an der ausgewählten Position.',
+    'Policy page URL' => 'Datenschutzerklärung URL',
+    'Policy page' => 'Datenschutzerklärung Seite',
+    'Refuse' => 'Ablehnen',
+    'Select color palette or choose &quot;none&quot; to set your own colors.' => 'Farbpalette wählen oder &quot;none&quot; auswählen um eigene Farben einzustellen.',
+    'The visitor must explicitly agree to the cookie' => 'Der Besucher muss dem Cookie ausdrücklich zustimmen',
+    'The visitor must explicitly reject the cookie.' => 'Der Besucher muss den Cookie explizit ablehnen.',
+    'This website uses cookies to ensure you get the best experience on our website.' => 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Nutzung zu gewährleisten.',
+    'Tip: Create your own texts in English and enter the translation into the DE.php!' => 'Tipp: Eigene Texte in englischer Sprache verfassen und die Übersetzung in die DE.php eintragen!',
+    'Type' => 'Typ',
+    'please choose' => 'bitte wählen',
+    'Please note: The above selection only lists pages whose visibility is set to &quot;public&quot;.' => 'Bitte beachten: In der obigen Auswahl werden nur Seiten aufgelistet, deren Sichtbarkeit auf &quot;öffentlich&quot; eingestellt ist.',
+    'Choose your own colors' => 'Eigene Farben auswählen',
+    'Cookie Consent calculates matching colors for colors not set. These are shown in the preview.' => 'Cookie Consent berechnet für nicht gesetzte Farben passende Farben. Diese sind in der Vorschau zu sehen.',
+    'An internal page always has a higher priority than an external URL.' => 'Eine interne Seite hat immer eine höhere Priorität als eine externe URL.',
+    'The standard texts are in English and are displayed as placeholders in the input fields below. These must be adapted to the actual conditions, i.e. it must be specified what kind of cookies are set and what purposes they serve. A guarantee for the legal security of the default text is expressly not assumed!'
+        => 'Die Standard-Texte sind englischsprachig und werden in den Eingabefeldern unten als Platzhalter angezeigt. Diese sind unbedingt den tatsächlichen Begebenheiten anzupassen, d.h. es ist anzugeben, was für Cookies gesetzt werden und welchen Zwecken diese dienen. Eine Gewähr für die Rechtssicherheit des Vorgabetextes wird ausdrücklich nicht übernommen!',
+);

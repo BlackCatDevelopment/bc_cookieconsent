@@ -1,0 +1,10 @@
+@import url(frontend.css); 
+@import url(spectrum.css);
+
+div.mod_cookieconsent h3{border-bottom:1px solid #ccc;margin-bottom:15px}
+div.mod_cookieconsent label {display:inline-block;width:250px;text-align:right;vertical-align:top;}
+div.mod_cookieconsent input, div.mod_cookieconsent select, div.mod_cookieconsent textarea {width:250px;}
+div.mod_cookieconsent .cc-info{display:inline-block;width:20px;height:20px;background-color:rgb(0,0,204);color:#fff;border:2px solid #fff;border-radius:50%;font-weight:900;padding-left:6px;}
+div.mod_cookieconsent div.alert{padding:5px;border:1px solid #ccc;margin-bottom:2em;}
+
+div.cc-window {text-shadow:0 0 0 transparent}
