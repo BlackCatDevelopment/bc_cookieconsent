@@ -42,4 +42,4 @@ if (defined('CAT_PATH')) {
 $database->query(sprintf(
     "DROP TABLE `%smod_cookieconsent_settings`",
     TABLE_PREFIX
-);
+));
