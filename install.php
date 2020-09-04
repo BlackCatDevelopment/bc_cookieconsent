@@ -72,3 +72,5 @@ if($stmt->rowCount() == 0) { // no settings yet
         NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL);",TABLE_PREFIX);
     $r = $database->query($sql);
 }
+
+CAT_Helper_Droplet::installDroplet(__DIR__.'/install/droplet_cookieconsent.zip');
